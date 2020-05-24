@@ -1,5 +1,5 @@
 {
-  // peers from external source
+  // peers from external source - example
   "peersURL": "https://raw.githubusercontent.com/kibalnikov/erachain-IP_lab/master/peers-side.json",
   // Blocks period [sec], minumum: 3, default: 30
   "blockPeriod": 60,
